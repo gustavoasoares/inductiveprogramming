@@ -1,2 +1,2 @@
-# Inductive Programming Benchmark 
+# Inductive Programming benchmark 
 Repository of benchmark for inductive programming techniques
