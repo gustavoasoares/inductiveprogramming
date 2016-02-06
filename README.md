@@ -1,6 +1,6 @@
 ## Welcome to the inductive programming benchmark 
 
-This repository contains useful benchmarks and to compare new and existing inductive programming systems under prefereably equal conditions with each other. If you have set of problems/scenarios where you think we could automate them by using inductive programming, please share them with us. 
+This repository contains useful benchmarks to compare new and existing inductive programming systems under prefereably equal conditions with each other. If you have set of problems/scenarios where you think we could automate them by using inductive programming, please share them with us. 
 
 ## Getting start
 
